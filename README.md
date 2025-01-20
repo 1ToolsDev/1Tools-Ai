@@ -67,16 +67,6 @@ visibility_check=True
 
 ---
 
-## 🕹️ Hotkeys  
-
-- **F1** – Toggle aimbot on/off  
-- **F2** – Switch between aim models (Head/Body)  
-- **F3** – Adjust aimbot speed  
-- **F4** – Toggle Auto-Trigger mode  
-- **INS** – Open in-game menu  
-
----
-
 ## 🧠 AI Models and Configurations  
 
 - **Free AI Models** – A wide range of pre-configured AI models for different game types and playstyles.  
@@ -90,7 +80,7 @@ visibility_check=True
 > 1Tools Ai is designed with advanced obfuscation techniques to reduce risks, but no software is 100% undetectable. Use it at your own risk.  
 
 **2. Is the program open-source?**  
-> No, the source code of 1Tools Ai is private to avoid abuse and ensure better security.  
+> Yeah, because to create this Aimbot, we use the source code of Aimmy, but we improved it like never before so maybe it's your turn!
 
 **3. What if the aimbot isn't working?**  
 > Ensure that your game is in borderless windowed mode and that all prerequisites are installed or join our discord [Discord](https://discord.gg/7kjKeFnRFX).
@@ -109,4 +99,4 @@ If you have any questions or need help, contact us on [Discord](https://discord.
 
 ---
 
-© 2025 1Tools Ai - All rights reserved.  
+© 2025 1Tools Ai - All rights reserved.
